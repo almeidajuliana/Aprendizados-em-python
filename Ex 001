@@ -1,0 +1,12 @@
+Ex 001:
+Vídeo de base: https://youtu.be/nIHq1MtJaKs?si=owDAKdICtyBIaAOn
+Códigos: 
+
+#print('Olá, Mundo!')
+#print('Estou aprendendo python e amando isso!!')
+mensagem = 'Olá, Mundo!'
+mensagem2 = 'Oi'
+print(mensagem)
+print(mensagem2)
+
+Comecei a fazer a revisão dos exercício para melhorar o aprendizado. Comecei pelo exercício número um. Coloquei # nas primeiras linha para não rodar e testar outras formas de rodar as mensagens.
