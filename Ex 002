@@ -1,0 +1,14 @@
+Ex 002:
+Vídeo de base: https://youtu.be/FNqdV5Zb_5Q?si=OI3UrNG1EFCF_8r7
+Código:
+
+#nome = input('Digite seu nome: ')
+#print(f'É um prazer te conhecer, {nome}!')
+
+nome = input('Digite seu nome: ')
+idade = input('Digite sua idade: ' )
+cidade = input('Digite onde você mora: ')
+print(f'Prazer, {nome}! Sinto saudades de ter {idade} anos! Muito legal que você more na cidade de {cidade}!')
+
+Nessa revisão, testei o f , format abreviado. Essa função é usada pra ser como uma "caixinha em branco" que será preenchida com a informação que vc deseja. 
+
