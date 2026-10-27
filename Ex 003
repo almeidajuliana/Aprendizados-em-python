@@ -1,0 +1,24 @@
+Ex 003:
+Vídeo de base: https://youtu.be/FNqdV5Zb_5Q?si=OI3UrNG1EFCF_8r7
+#Ex 003 - Revisão, repetição e resumo!
+#Com números inteiros:
+#n1 = int(input ('Digite um número:'))
+#n2 = int(input ('Digite outro número:'))
+#soma = n2 + n2
+#print(f'A soma dos números é {soma}')
+
+#Com números flutuantes:
+#n1 = float(input('Digite um valor: '))
+#n2 = float(input('Digite outro valor: '))
+#soma = n1 + n2
+#print(f'A soma entre esses valores é {soma}')
+
+n1 = float(input('Digite um número: '))
+n2 = float(input('Digite outro número: '))
+soma = n1 + n2
+subtração = n1 - n2
+multiplicação = n1 * n2
+divisão = n1 / n2
+print(f'A soma entre os valores é {soma}, a subtração é {subtração}, a multiplicação é {multiplicação} e a divisão é {divisão}!')
+
+Nessa revisão, o codigo soma dois números que usuário deseja. No segundo código, testei também os valores com subtração, multiplicação e divisão!
